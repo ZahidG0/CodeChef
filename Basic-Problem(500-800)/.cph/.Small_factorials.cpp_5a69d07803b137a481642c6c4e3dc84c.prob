@@ -1,0 +1,1 @@
+{"name":"Local: Small_factorials","url":"e:\\C++(DSA)\\CodeChef\\Basic-Problem(500-800)\\Small_factorials.cpp","tests":[{"id":1780886546105,"input":"4\n1\n2\n5\n3","output":"1\n2\n120\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++(DSA)\\CodeChef\\Basic-Problem(500-800)\\Small_factorials.cpp","group":"local","local":true}
